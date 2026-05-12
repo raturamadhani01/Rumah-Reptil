@@ -101,9 +101,9 @@ Proyek ini merupakan **kolaborasi pertama** kami berdua.
 | Developer | GitHub |
 |-----------|--------|
 | Ratura Ramadhani | [@raturamadhani01](https://github.com/raturamadhani01) |
-| Rekan 1 | [Link GitHub akan segera diisi](#) |
-| Rekan 2 | [Link GitHub akan segera diisi](#) |
-| Rekan 3 | [Link GitHub akan segera diisi](#) |
+| Rekan 1 | [Link GitHub akan segera diisi](https://github.com/baiapa10) |
+| Rekan 2 | [Link GitHub akan segera diisi](https://github.com/erwindW99) |
+| Rekan 3 | [Link GitHub akan segera diisi](https://github.com/archiesuyono) |
 
 ---
 
