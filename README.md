@@ -100,7 +100,7 @@ Proyek ini merupakan **kolaborasi pertama** kami berdua.
 
 | Developer | GitHub |
 |-----------|--------|
-| Ratura Ramadhani | [@raturamadhani01](https://github.com/raturamadhani01) |
+| Ratu Ramadhani | [@raturamadhani01](https://github.com/raturamadhani01) |
 | Rekan 1 | [@baiapa10](https://github.com/baiapa10) |
 | Rekan 2 | [@erwindW99](https://github.com/erwindW99) |
 | Rekan 3 | [@archiesuyono](https://github.com/archiesuyono) |
